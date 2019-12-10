@@ -6,7 +6,7 @@
         "node-red-contrib-samsung-tv": "0.2.0",
         "node-red-contrib-traffic": "0.2.1",
         "node-red-contrib-web-worldmap": "2.0.12",
-        "node-red-dashboard": "2.15.4",
+        "node-red-dashboard": "2.19.2",
         "node-red-node-wol": "0.0.12",
         "node-red-contrib-color-convert": "0.0.5",
         "node-red-contrib-blockly": "1.1.0",
