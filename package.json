@@ -17,14 +17,15 @@
         "node-red-node-pushbullet": "0.0.14",
         "node-red-node-rbe": "0.2.5",
         "node-red-contrib-bigtimer": "2.3.1",
-        "node-red-contrib-functionx": "1.0.0",
         "node-red-contrib-google-tts": "1.1.1",
         "node-red-contrib-iconv": "0.0.3",
         "node-red-contrib-image-output": "0.6.3",
         "node-red-contrib-ip": "1.0.1",
         "node-red-contrib-nbrowser": "1.1.4",
         "node-red-contrib-play-audio": "2.5.0",
-        "node-red-contrib-remote-xy": "1.1.1"
+        "node-red-contrib-remote-xy": "1.1.1",
+        "node-red-contrib-chart-image": "1.0.2",
+        "node-red-contrib-google-calendar": "0.1.2"
     },
     "node-red": {
         "settings": {
