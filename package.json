@@ -3,11 +3,8 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-contrib-samsung-tv": "0.2.0",
         "node-red-contrib-traffic": "0.2.1",
-        "node-red-contrib-web-worldmap": "2.0.12",
         "node-red-dashboard": ">=2.17.0",
-        "node-red-node-wol": "0.0.12",
         "node-red-contrib-color-convert": "0.0.5",
         "node-red-contrib-blockly": "1.1.0",
         "node-red-contrib-counter": "0.1.5",
@@ -21,11 +18,11 @@
         "node-red-contrib-iconv": "0.0.3",
         "node-red-contrib-image-output": "0.6.3",
         "node-red-contrib-ip": "1.0.1",
-        "node-red-contrib-nbrowser": "1.1.4",
         "node-red-contrib-play-audio": "2.5.0",
         "node-red-contrib-remote-xy": "1.1.1",
         "node-red-contrib-chart-image": "1.0.2",
-        "node-red-contrib-google-calendar": "0.1.2"
+        "node-red-contrib-fs": "1.4.1",
+        "node-red-node-google": "0.2.2"
     },
     "node-red": {
         "settings": {
